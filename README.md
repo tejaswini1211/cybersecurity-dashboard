@@ -32,8 +32,8 @@ All visuals are dynamic and interactive, providing an intuitive interface for ex
 
 ## 📁 Project Structure
 cybersecurity-dashboard/
-├── index.html # Main HTML file with Tableau embed code
-└── README.md # Project overview and instructions
+A)index.html # Main HTML file with Tableau embed code
+B)README.md # Project overview and instructions
 
 
 ---
