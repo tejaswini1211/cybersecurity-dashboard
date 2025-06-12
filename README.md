@@ -57,6 +57,6 @@ B)README.md # Project overview and instructions
 **Sai Santoshi Naga Bhanu Tejaswini Movva**  
 Graduate Student – Information Technology  
 University of Cincinnati  
-🔗 [LinkedIn](https://www.linkedin.com/in/tejaswini-movva)
+🔗 [LinkedIn](https://www.linkedin.com/in/tejaswini-810418178/)
 
 ---
